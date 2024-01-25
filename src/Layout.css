@@ -1,0 +1,12 @@
+.nav{
+    height: 5rem;
+    width: 100%;
+    display: flex;
+    background-color: aqua;
+    padding: 20px;
+    list-style-type: none;
+
+}
+.inside{
+    padding: 20px;
+}

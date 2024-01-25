@@ -1,0 +1,10 @@
+.flex{
+    display: grid;
+    grid-template-columns: repeat(3 ,1fr);
+    justify-content: space-evenly;
+    gap: 20px;
+}
+.insideee{
+    padding: 20px;
+    background-color: aquamarine;
+}
