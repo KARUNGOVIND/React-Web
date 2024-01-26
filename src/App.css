@@ -6,3 +6,46 @@
     padding: 20px;
     background-color: rgb(235, 238, 231);
 }
+.last{
+    display: flex;
+    flex-direction: row;
+    background-color: rgb(24, 22, 22);
+    height: 22rem;
+    width: 100%;
+    padding-left: 55%;
+}
+.lasst{
+        display: flex;
+        flex-direction: row;
+    
+}
+.coll{
+    display: flex;
+    flex-direction: column;
+}
+.pad{
+    padding: 15px;
+}
+.lastrig{
+    display: flex;
+    flex-direction: row;
+    padding: 50px;
+    text-align: center;
+    font-family: 'Segoe UI';
+    color: aliceblue;
+}
+.final{
+        display: flex;
+        flex-direction: row;
+        background-color: rgb(24, 22, 22);
+        height: 5rem;
+        width: 100%;
+    
+}
+.effect{
+    display: flex;
+    flex-direction: column;
+    background-color: bisque;
+    padding: 20px;
+    padding-left: 30rem;
+}

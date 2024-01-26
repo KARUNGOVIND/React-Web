@@ -1,0 +1,30 @@
+.centerbox{
+    display: flex;
+    margin-top: 5%;
+    margin-left: 35%;
+    
+}
+.boxalign{
+    display: flex;
+    border: 4px solid black;
+    padding: 5rem;
+    border-radius: 20px;
+    flex-direction: column;
+    background-color: aquamarine;
+
+}
+.head{
+    background-color: azure;
+    border-radius: 20px;
+    padding: 20px;
+    text-align: center;
+
+}
+.buttons{
+    display: flex;
+    flex-direction: row;
+    padding-top: 40px;
+    
+
+
+}

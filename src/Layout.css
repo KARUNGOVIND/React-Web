@@ -3,10 +3,12 @@
     width: 100%;
     display: flex;
     background-color: aqua;
-    padding: 20px;
+    /* padding: 20px; */
     list-style-type: none;
 
 }
 .inside{
+    margin-top: 10px;
     padding: 20px;
+    
 }
